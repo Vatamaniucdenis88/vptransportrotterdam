@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/vptransportrotterdam/static/css/main.39bbd48f.chunk.css",
+    "main.js": "/vptransportrotterdam/static/js/main.f298e801.chunk.js",
+    "main.js.map": "/vptransportrotterdam/static/js/main.f298e801.chunk.js.map",
+    "runtime-main.js": "/vptransportrotterdam/static/js/runtime-main.d3eda3d3.js",
+    "runtime-main.js.map": "/vptransportrotterdam/static/js/runtime-main.d3eda3d3.js.map",
+    "static/js/2.4be5cef9.chunk.js": "/vptransportrotterdam/static/js/2.4be5cef9.chunk.js",
+    "static/js/2.4be5cef9.chunk.js.map": "/vptransportrotterdam/static/js/2.4be5cef9.chunk.js.map",
+    "index.html": "/vptransportrotterdam/index.html",
+    "precache-manifest.a63236463317aa4d4ebc7a32d42fc3dd.js": "/vptransportrotterdam/precache-manifest.a63236463317aa4d4ebc7a32d42fc3dd.js",
+    "service-worker.js": "/vptransportrotterdam/service-worker.js",
+    "static/css/main.39bbd48f.chunk.css.map": "/vptransportrotterdam/static/css/main.39bbd48f.chunk.css.map",
+    "static/js/2.4be5cef9.chunk.js.LICENSE.txt": "/vptransportrotterdam/static/js/2.4be5cef9.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/vptransportrotterdam/static/media/about.e93cadfa.jpg",
+    "static/media/contact.jpg": "/vptransportrotterdam/static/media/contact.8e3e2b02.jpg",
+    "static/media/cover.jpg": "/vptransportrotterdam/static/media/cover.ee56acc9.jpg",
+    "static/media/logo.png": "/vptransportrotterdam/static/media/logo.162f1a94.png",
+    "static/media/service1.png": "/vptransportrotterdam/static/media/service1.d879e1d1.png",
+    "static/media/service2.png": "/vptransportrotterdam/static/media/service2.08d0bbb6.png",
+    "static/media/service3.png": "/vptransportrotterdam/static/media/service3.9838e669.png",
+    "static/media/service4.png": "/vptransportrotterdam/static/media/service4.f892f54b.png",
+    "static/media/service5.png": "/vptransportrotterdam/static/media/service5.62d00bac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3eda3d3.js",
+    "static/js/2.4be5cef9.chunk.js",
+    "static/css/main.39bbd48f.chunk.css",
+    "static/js/main.f298e801.chunk.js"
+  ]
+}
